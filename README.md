@@ -20,9 +20,9 @@ Check out my latest SailPoint integration project:
 `SailPoint IIQ` `Java` `BeanShell` `REST APIs` `SQL` `Git` `Linux` `CI/CD` `Active Directory` `Azure AD`
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/rushikesh-bommineni/)
-- 📧 brreddy2301@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rushikeshbr/)
+- 📧 itsrushikeshb@gmail.com
 
 ---
 
-*Open to opportunities in IAM, IGA, or cybersecurity engineering.*
+*Open to opportunities in Sailpoint, IAM, IGA, or cybersecurity engineering.*
